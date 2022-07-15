@@ -9,14 +9,14 @@ export default function App() {
                 <div>Logo</div>
                 <nav>
                     <ul>
-                        <li>Home</li>
-                        <li>About</li>
-                        <li>Contact</li>
+                        <li>Inicio</li>
+                        <li>CSS</li>
+                        <li>JavaScript</li>
                     </ul>
                 </nav>
             </header>
             <main>
-                
+                {/* aca se cargaran los componentes */}
             </main>
         </>
     );
